@@ -16,12 +16,12 @@ is for you.
 
 1. To install the browser extension you need [Greasemonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), [TamperMonkey for Chrome](http://tampermonkey.net/) or [for Dolphin](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin).
 1. Restart your browser.
-1. Follow [this link](https://github.com/VioletRed/script.anyurl.player/raw/master/json/Play_on_XBMC.user.js) to install the browser extension.
+1. Follow [this link](https://github.com/RedToViolet/script.anyurl.player/raw/master/json/Play_on_XBMC.user.js) to install the browser extension.
 1. Go to youtube.com. A configuration window should appear.
 
 ## I want more websites!
 
-Many supported websites require AnyURL Kodi addon. [Download it](https://github.com/VioletRed/script.anyurl.player/releases/latest), and install it following [the instructions in Kodi's wiki](http://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file).
+Many supported websites require AnyURL Kodi addon. [Download it](https://github.com/RedToViolet/script.anyurl.player/releases/latest), and install it following [the instructions in Kodi's wiki](http://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file).
 
 ## F.A.Q
 
